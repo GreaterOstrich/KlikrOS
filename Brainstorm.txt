@@ -25,3 +25,6 @@ Add drivers / parts manually
 See also
 
 > Nano seeker
+
+http://electronics.stackexchange.com/questions/7670/how-accurate-are-altimeters
+
