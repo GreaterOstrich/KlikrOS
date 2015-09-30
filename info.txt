@@ -1,0 +1,1 @@
+SerialID=ci42KL23,Version=1.0.1,Protocol=Drone_1.1
