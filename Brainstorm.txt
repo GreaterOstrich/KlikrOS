@@ -12,10 +12,11 @@ Default parts:
 > LCD
 > GPS
 > Screen / Tacticle screen
-> 
+> See logisism like things
 
 Add drivers / parts manually
 
+> Protocol + SDK + Docs
 > Software provision
 > Circuitry
 > Simulation
