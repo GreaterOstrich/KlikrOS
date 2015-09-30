@@ -1,0 +1,22 @@
+Compitable arrangements:
+> CC3000-3300
+> CCBluetooths
+> Other similar
+> USB
+> Headphone jack
+
+Default parts:
+> LED
+> Resistances
+> Antena
+> LCD
+> GPS
+> Screen / Tacticle screen
+> 
+
+Add drivers / parts manually
+
+> Software provision
+> Circuitry
+> Simulation
+> Make PCB --> Prototype designer (50-200$)
