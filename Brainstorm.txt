@@ -20,4 +20,8 @@ Add drivers / parts manually
 > Software provision
 > Circuitry
 > Simulation
-> Make PCB --> Prototype designer (50-200$)
+> Make PCB --> Prototype designer (50-200$) / DIY / Export to usuable formats?
+
+See also
+
+> Nano seeker
